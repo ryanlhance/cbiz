@@ -26,12 +26,15 @@
   --block:       #F1EFE8;
   --white:       #ffffff;
 
-  /* one highlight system (no match hierarchy) */
-  --hl-bg:       var(--c-green-soft);
-  --hl-bg-hover: var(--c-green-soft);
-  --hl-line:     var(--c-green);
-  --hl-line-on:  var(--c-navy);
-  --hl-active:   var(--c-green-mid);
+  /* one highlight system (no match hierarchy).
+     At rest the underline is the brand green pulled far back so the
+     prose reads as prose; the full-strength green is held for hover
+     and for the phrase that is actually open. */
+  --hl-bg:       #F0F5F2;
+  --hl-bg-hover: #F0F5F2;
+  --hl-line:     rgba(4, 119, 59, 0.32);
+  --hl-line-on:  var(--c-green);
+  --hl-active:   #DEEBE3;
 
   --display: "Mulish", "Trebuchet MS", Tahoma, Arial, sans-serif;
   --sans: "Mulish", "Trebuchet MS", Tahoma, Arial, sans-serif;
@@ -130,7 +133,7 @@ a { color: var(--c-green); }
   padding: 30px 28px 6px;
 }
 .job-title {
-  margin: 0 0 8px;
+  margin: 0 0 22px;
   font-family: var(--display);
   font-size: clamp(1.9rem, 4vw, 2.6rem);
   line-height: 1.12;
@@ -140,16 +143,6 @@ a { color: var(--c-green); }
   max-width: 38ch;
   text-wrap: balance;
 }
-.job-location {
-  margin: 0 0 22px;
-  font-size: 0.98rem;
-  color: var(--secondary);
-  display: flex;
-  align-items: center;
-  gap: 7px;
-}
-.pin { color: var(--c-accent); font-size: 1.05rem; }
-
 /* candidate framing band */
 .candidate-band {
   background: var(--white);
@@ -219,7 +212,7 @@ a { color: var(--c-green); }
   left: 4px; top: 0.72em;
   width: 6px; height: 6px;
   border-radius: 50%;
-  background: var(--c-accent);
+  background: var(--c-green);
 }
 
 /* the bold role name in the intro */
@@ -244,8 +237,8 @@ a { color: var(--c-green); }
   text-decoration: underline;
   text-decoration-style: dotted;
   text-decoration-color: var(--hl-line);
-  text-decoration-thickness: 1.5px;
-  text-underline-offset: 2px;   /* sits close to the words */
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;   /* sits close to the words */
   transition: background 120ms ease, text-decoration-color 120ms ease;
   box-decoration-break: clone;
   -webkit-box-decoration-break: clone;

@@ -12,7 +12,7 @@
         "company": "CBIZ",
         "role": "Change and Adoption Lead | Artificial Intelligence",
         "employment": "",
-        "location": "1899 L Street, NW, Ste 850, Washington, DC, 20036, US (Remote) · Full time",
+        "location": "",
         "url": "https://ebez.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5862",
         "tab_title": "Ryan Hance · Fit Map",
         "candidate_kicker": "Ryan Hance · Fit Map",
@@ -23,9 +23,10 @@
         {
           "type": "p",
           "segments": [
+            "If you are looking for ",
             {
               "id": "p-more-than-title",
-              "text": "If you are looking for more than another AI title",
+              "text": "more than another AI title",
               "evidence": [
                 "ev-agentic-ops",
                 "ev-architect-operator",
@@ -33,30 +34,10 @@
                 "pf-full"
               ]
             },
-            ", this opportunity provides ",
-            {
-              "id": "p-exec-priorities",
-              "text": "direct access to executive priorities",
-              "evidence": [
-                "ev-exec-alignment",
-                "ev-strategic-advising",
-                "ev-storytelling"
-              ]
-            },
-            ", ",
-            {
-              "id": "p-client-impact",
-              "text": "meaningful client impact",
-              "evidence": [
-                "ev-client-delivery",
-                "ev-engagement-ownership",
-                "ev-metrics"
-              ]
-            },
-            ", and ",
+            ", this opportunity provides direct access to executive priorities, meaningful client impact, and the chance to ",
             {
               "id": "p-market-leader",
-              "text": "the chance to help establish CBIZ as a market leader in the future of AI-driven professional services",
+              "text": "help establish CBIZ as a market leader in the future of AI-driven professional services",
               "evidence": [
                 "ev-ai-product",
                 "ev-ai-agents",
@@ -70,9 +51,10 @@
         {
           "type": "p",
           "segments": [
+            "The Change and Adoption Lead is responsible for driving ",
             {
               "id": "p-readiness",
-              "text": "The Change and Adoption Lead is responsible for driving organizational readiness, user adoption, and sustainable change",
+              "text": "organizational readiness, user adoption, and sustainable change",
               "evidence": [
                 "ev-change",
                 "ev-adoption",
@@ -80,10 +62,10 @@
                 "pf-genai-playbook"
               ]
             },
-            ". This role ",
+            ". This role develops and executes ",
             {
               "id": "p-change-strategies",
-              "text": "develops and executes change strategies, stakeholder engagement plans, communications, and adoption activities",
+              "text": "change strategies, stakeholder engagement plans, communications, and adoption activities",
               "evidence": [
                 "ev-change",
                 "ev-playbooks",
@@ -91,18 +73,7 @@
                 "ev-writing"
               ]
             },
-            " ",
-            {
-              "id": "p-embrace-ai",
-              "text": "that help teams and clients successfully embrace new AI-enabled processes, tools, and ways of working",
-              "evidence": [
-                "ev-adoption",
-                "ev-agentic-ops",
-                "ev-digital-tech-enablement",
-                "ev-psych"
-              ]
-            },
-            "."
+            " that help teams and clients successfully embrace new AI-enabled processes, tools, and ways of working."
           ]
         },
         {
@@ -112,9 +83,10 @@
         {
           "type": "li",
           "segments": [
+            "Develop and lead ",
             {
               "id": "p-ef-strategies",
-              "text": "Develop and lead change management and adoption strategies for AI engagements",
+              "text": "change management and adoption strategies for AI engagements",
               "evidence": [
                 "ev-change",
                 "ev-adoption",
@@ -139,16 +111,7 @@
         {
           "type": "li",
           "segments": [
-            {
-              "id": "p-ef-partner",
-              "text": "Partner with business leaders, project teams, and peer functions",
-              "evidence": [
-                "ev-xfn",
-                "ev-exec-alignment",
-                "ev-cross-discipline"
-              ]
-            },
-            " to ",
+            "Partner with business leaders, project teams, and peer functions to ",
             {
               "id": "p-ef-barriers",
               "text": "assess readiness and address barriers to adoption",
@@ -165,23 +128,14 @@
         {
           "type": "li",
           "segments": [
-            {
-              "id": "p-ef-coordinate",
-              "text": "Coordinate cross-functional activities",
-              "evidence": [
-                "ev-xfn",
-                "ev-concurrent",
-                "ev-operating-cadences"
-              ]
-            },
-            " to support ",
+            "Coordinate cross-functional activities to support ",
             {
               "id": "p-ef-transitions",
               "text": "smooth transitions from design through implementation and sustainment",
               "evidence": [
                 "ev-architect-operator",
                 "ev-engagement-ownership",
-                "ev-startup-os",
+                "ev-xfn",
                 "ev-playbooks"
               ]
             },
@@ -191,9 +145,10 @@
         {
           "type": "li",
           "segments": [
+            "Recommend and document ",
             {
               "id": "p-ef-policies",
-              "text": "Recommend and document policies, procedures, and change practices",
+              "text": "policies, procedures, and change practices",
               "evidence": [
                 "ev-playbooks",
                 "ev-writing",
@@ -218,9 +173,10 @@
         {
           "type": "li",
           "segments": [
+            "Support project planning and execution using ",
             {
               "id": "p-ef-sdlc",
-              "text": "Support project planning and execution using Traditional and Agile SDLC methodologies",
+              "text": "Traditional and Agile SDLC methodologies",
               "evidence": [
                 "ev-pm-roadmap",
                 "ev-agile",
@@ -252,26 +208,26 @@
                 "pf-genai-playbook"
               ]
             },
-            ", ",
+            ", identify improvement opportunities, and ",
             {
               "id": "p-ef-corrective",
-              "text": "identify improvement opportunities, and recommend corrective actions where needed",
+              "text": "recommend corrective actions",
               "evidence": [
                 "ev-process-opt",
                 "ev-root-cause",
-                "ev-early-risk",
-                "ev-prioritization"
+                "ev-early-risk"
               ]
             },
-            "."
+            " where needed."
           ]
         },
         {
           "type": "li",
           "segments": [
+            "Communicate effectively with ",
             {
               "id": "p-ef-communicate",
-              "text": "Communicate effectively with stakeholders at all organizational levels",
+              "text": "stakeholders at all organizational levels",
               "evidence": [
                 "ev-speaking",
                 "ev-writing",
@@ -279,15 +235,14 @@
                 "ev-global"
               ]
             },
-            " to ",
+            " to build ",
             {
               "id": "p-ef-commitment",
-              "text": "build understanding, commitment, and alignment",
+              "text": "understanding, commitment, and alignment",
               "evidence": [
                 "ev-exec-alignment",
                 "ev-psych",
-                "ev-facilitation",
-                "ev-storytelling"
+                "ev-facilitation"
               ]
             },
             "."
@@ -300,9 +255,10 @@
         {
           "type": "li",
           "segments": [
+            "Experience leading ",
             {
               "id": "p-pq-leading-change",
-              "text": "Experience leading organizational change, communications, training, or adoption initiatives",
+              "text": "organizational change, communications, training, or adoption initiatives",
               "evidence": [
                 "ev-change",
                 "ev-workforce",
@@ -327,9 +283,10 @@
         {
           "type": "li",
           "segments": [
+            "Knowledge of ",
             {
               "id": "p-pq-frameworks",
-              "text": "Knowledge of change management frameworks",
+              "text": "change management frameworks",
               "evidence": [
                 "ev-change",
                 "ev-decision-frameworks",
@@ -353,9 +310,10 @@
         {
           "type": "li",
           "segments": [
+            "Experience developing ",
             {
               "id": "p-pq-exec-comms",
-              "text": "Experience developing executive communications",
+              "text": "executive communications",
               "evidence": [
                 "ev-storytelling",
                 "ev-exec-alignment",
@@ -379,9 +337,10 @@
         {
           "type": "li",
           "segments": [
+            "Familiarity with ",
             {
               "id": "p-pq-responsible-ai",
-              "text": "Familiarity with responsible AI considerations",
+              "text": "responsible AI considerations",
               "evidence": [
                 "ev-responsible-ai",
                 "ev-ai-reliability",
@@ -406,9 +365,10 @@
         {
           "type": "li",
           "segments": [
+            "Relevant ",
             {
               "id": "p-pq-certifications",
-              "text": "Relevant certifications in project management, change management, or organizational development preferred",
+              "text": "certifications in project management, change management, or organizational development",
               "evidence": [
                 "ev-credentials",
                 "ev-coaching",
@@ -416,15 +376,16 @@
                 "ev-ma"
               ]
             },
-            "."
+            " preferred."
           ]
         },
         {
           "type": "li",
           "segments": [
+            "Experience supporting ",
             {
               "id": "p-pq-regulated",
-              "text": "Experience supporting change efforts in regulated or healthcare-related environments preferred",
+              "text": "change efforts in regulated or healthcare-related environments",
               "evidence": [
                 "ev-regulatory",
                 "ev-change",
@@ -432,7 +393,7 @@
                 "pf-journey"
               ]
             },
-            "."
+            " preferred."
           ]
         },
         {
@@ -444,12 +405,13 @@
           "segments": [
             {
               "id": "p-mq-bachelors",
-              "text": "Bachelor’s degree or equivalent experience required",
+              "text": "Bachelor’s degree or equivalent experience",
               "evidence": [
                 "ev-ma",
                 "ev-credentials"
               ]
-            }
+            },
+            " required"
           ]
         },
         {
@@ -457,29 +419,32 @@
           "segments": [
             {
               "id": "p-mq-years",
-              "text": "At least 6 years of related experience required",
+              "text": "At least 6 years of related experience",
               "evidence": [
                 "ev-change",
                 "ev-client-years",
                 "ev-service-design",
                 "ev-wide-industry"
               ]
-            }
+            },
+            " required"
           ]
         },
         {
           "type": "li",
           "segments": [
+            "Minimum ",
             {
               "id": "p-mq-supervisory",
-              "text": "Minimum 3 years of supervisory experience required",
+              "text": "3 years of supervisory experience",
               "evidence": [
                 "ev-hiring",
                 "ev-startup-os",
                 "ev-talent-dev",
                 "ev-mentorship"
               ]
-            }
+            },
+            " required"
           ]
         },
         {
@@ -497,9 +462,10 @@
         {
           "type": "li",
           "segments": [
+            "Demonstrated knowledge of ",
             {
               "id": "p-mq-healthcare",
-              "text": "Demonstrated knowledge of healthcare industry regulations, policies, and procedures",
+              "text": "healthcare industry regulations, policies, and procedures",
               "evidence": [
                 "ev-regulatory",
                 "ev-org-restructuring",
@@ -512,9 +478,10 @@
         {
           "type": "li",
           "segments": [
+            "Demonstrated knowledge and experience working with ",
             {
               "id": "p-mq-stakeholders",
-              "text": "Demonstrated knowledge and experience working with business stakeholders and leaders",
+              "text": "business stakeholders and leaders",
               "evidence": [
                 "ev-exec-alignment",
                 "ev-xfn",
@@ -524,22 +491,24 @@
             ", ",
             {
               "id": "p-mq-it-delivery",
-              "text": "IT project planning, delivery, and execution using Traditional and Agile SDLC methodologies",
+              "text": "IT project planning, delivery, and execution",
               "evidence": [
                 "ev-pm-roadmap",
                 "ev-agile",
                 "ev-concurrent",
                 "ev-pm-system"
               ]
-            }
+            },
+            " using Traditional and Agile SDLC methodologies"
           ]
         },
         {
           "type": "li",
           "segments": [
+            "Experience with ",
             {
               "id": "p-mq-collab-tools",
-              "text": "Experience with VSTS, Jira, and/or other team/project collaboration tools",
+              "text": "VSTS, Jira, and/or other team/project collaboration tools",
               "evidence": [
                 "ev-tooling",
                 "ev-pm-tools",
@@ -552,9 +521,10 @@
         {
           "type": "li",
           "segments": [
+            "Ability to ",
             {
               "id": "p-mq-lead-team",
-              "text": "Ability to work in and lead a team",
+              "text": "work in and lead a team",
               "evidence": [
                 "ev-xfn",
                 "ev-talent-dev",
@@ -562,10 +532,10 @@
                 "ev-servant-leadership"
               ]
             },
-            ", while ",
+            ", while communicating and ",
             {
               "id": "p-mq-peer-teams",
-              "text": "communicating and coordinating with peer teams",
+              "text": "coordinating with peer teams",
               "evidence": [
                 "ev-xfn",
                 "ev-cross-discipline",
@@ -577,9 +547,10 @@
         {
           "type": "li",
           "segments": [
+            "Ability to ",
             {
               "id": "p-mq-policies",
-              "text": "Ability to formulate, document and recommend new policies and procedures",
+              "text": "formulate, document and recommend new policies and procedures",
               "evidence": [
                 "ev-playbooks",
                 "ev-writing",
@@ -592,33 +563,27 @@
         {
           "type": "li",
           "segments": [
+            "Demonstrated ability to ",
             {
               "id": "p-mq-communicate",
-              "text": "Demonstrated ability to communicate verbally and in writing throughout all levels of an organization",
+              "text": "communicate verbally and in writing throughout all levels of an organization",
               "evidence": [
                 "ev-speaking",
                 "ev-writing",
-                "ev-storytelling"
-              ]
-            },
-            ", ",
-            {
-              "id": "p-mq-internal-external",
-              "text": "both internally and externally",
-              "evidence": [
-                "ev-client-delivery",
-                "ev-exec-alignment",
+                "ev-storytelling",
                 "ev-cross-discipline"
               ]
-            }
+            },
+            ", both internally and externally"
           ]
         },
         {
           "type": "li",
           "segments": [
+            "Ability to ",
             {
               "id": "p-mq-travel",
-              "text": "Ability to travel as required by business",
+              "text": "travel as required by business",
               "evidence": [
                 "ev-travel",
                 "ev-concurrent",
@@ -641,9 +606,10 @@
         {
           "type": "li",
           "segments": [
+            "Ability to ",
             {
               "id": "p-mq-lift",
-              "text": "Ability to lift up to 50lbs",
+              "text": "lift up to 50lbs",
               "evidence": [
                 "ev-live-events",
                 "ev-startup-os",

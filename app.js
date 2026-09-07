@@ -148,8 +148,10 @@
 
     el.jobTitle.textContent =
       (job.role || "") + (job.employment ? " (" + job.employment + ")" : "");
-    el.jobLocation.textContent =
-      (job.location || "") + (job.employment ? " · " + job.employment : "");
+    if (el.jobLocation) {
+      el.jobLocation.textContent =
+        (job.location || "") + (job.employment ? " · " + job.employment : "");
+    }
     el.kicker.textContent = job.candidate_kicker || (DATA.meta && DATA.meta.candidate) || "";
     el.lede.textContent = job.candidate_lede || "";
     el.stat.textContent = job.candidate_stat || "";
